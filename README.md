@@ -14,3 +14,5 @@ In vanilla optimisation algorithms, the time trajectory is uncontrolled and expl
 atomistic models
 
 1. Pun, G.P.P., Batra, R., Ramprasad, R. et al. Physically informed artificial neural networks for atomistic modeling of materials. Nat Commun 10, 2339 (2019). [https://doi.org/10.1038/s41467-019-10343-5](https://doi.org/10.1038/s41467-019-10343-5)
+
+2. Long range interactions with delta learning: Data-efficient machine learning for molecular crystal structure prediction [https://pubs.rsc.org/en/content/articlehtml/2021/sc/d0sc05765g](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d0sc05765g) 
