@@ -16,5 +16,6 @@ atomistic models
 1. Pun, G.P.P., Batra, R., Ramprasad, R. et al. Physically informed artificial neural networks for atomistic modeling of materials. Nat Commun 10, 2339 (2019). [https://doi.org/10.1038/s41467-019-10343-5](https://doi.org/10.1038/s41467-019-10343-5)
    
 3. [https://ntrs.nasa.gov/api/citations/20200002821/downloads/20200002821.pdf](https://ntrs.nasa.gov/api/citations/20200002821/downloads/20200002821.pdf)
+4. [https://www.lammps.org/workshops/Aug19/talk_hickman.pdf](https://www.lammps.org/workshops/Aug19/talk_hickman.pdf)
 
-4. Long range interactions with delta learning: Data-efficient machine learning for molecular crystal structure prediction [https://pubs.rsc.org/en/content/articlehtml/2021/sc/d0sc05765g](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d0sc05765g) 
+5. Long range interactions with delta learning: Data-efficient machine learning for molecular crystal structure prediction [https://pubs.rsc.org/en/content/articlehtml/2021/sc/d0sc05765g](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d0sc05765g) 
