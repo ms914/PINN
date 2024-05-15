@@ -10,3 +10,7 @@ In vanilla optimisation algorithms, the time trajectory is uncontrolled and expl
 
 1. [Solving real-world optimization tasks using physics-informed neural computing](https://doi.org/10.1038/s41598-023-49977-3) [https://github.com/jaem-seo/pinn-optimization](https://github.com/jaem-seo/pinn-optimization)
 2. MAxwellNet: https://github.com/limjoowon/maxwellnet
+
+atomistic models
+
+1. Pun, G.P.P., Batra, R., Ramprasad, R. et al. Physically informed artificial neural networks for atomistic modeling of materials. Nat Commun 10, 2339 (2019). [https://doi.org/10.1038/s41467-019-10343-5](https://doi.org/10.1038/s41467-019-10343-5)
