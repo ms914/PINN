@@ -24,4 +24,6 @@ Atomistic models
 8. SciANN
 
 
-**Text**
+**Symmetry in Machine Learning, Hamiltonian physics **
+Steve Brunton (2022):https://arxiv.org/pdf/2311.00212
+
